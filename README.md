@@ -6,7 +6,7 @@ Final Exam : Mobile Application Development
 - App Name: MoodMellow
 - Framework Used : React Native 
 - GitHub Repository: https://github.com/6631503010/MoodMellow
-- (APK/IPA):
+- (APK/IPA): https://github.com/6631503010/MoodMellow/releases/download/v1.0.0/MoodMellow_APK_File.apk.apk
 
 MoodMellow : This app serves as an emotional diary for users, allowing them to "drop" the feelings they experience into a "monthly jar" to record their emotions throughout the year. It offers a fun, cute, and easy-to-use way to collect and reflect on one's emotions over time.
 
