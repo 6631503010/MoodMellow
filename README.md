@@ -1,12 +1,12 @@
 # MoodMellow
 Final Exam : Mobile Application Development
 
-Name : Chayanit Triroj
-Student ID : 6631503010
-App Name: MoodMellow
-Framework Used : React Native 
-GitHub Repository:
-(APK/IPA):
+- Name : Chayanit Triroj
+- Student ID : 6631503010
+- App Name: MoodMellow
+- Framework Used : React Native 
+- GitHub Repository:
+- (APK/IPA):
 
 MoodMellow : This app serves as an emotional diary for users, allowing them to "drop" the feelings they experience into a "monthly jar" to record their emotions throughout the year. It offers a fun, cute, and easy-to-use way to collect and reflect on one's emotions over time.
 
