@@ -1,5 +1,6 @@
 # MoodMellow
 Final Exam : Mobile Application Development
+MoodMellow : This app serves as an emotional diary for users, allowing them to "drop" the feelings they experience into a "monthly jar" to record their emotions throughout the year. It offers a fun, cute, and easy-to-use way to collect and reflect on one's emotions over time.
 
 # App Development Report
 
